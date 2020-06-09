@@ -25,7 +25,7 @@ Around line 191 you will find this :
 
 Vsphere=vsphere('esxhost','vsphere login','vsphere pass')
 
-change esx host/ cluster name of your own, ex: vmcluxter.irc.mpw.fra and  update Vshpere client credentials.
+change esx host/ cluster name of your own, ex: vmcluxter.irc.mpman.it and  update Vshpere client credentials.
 
 #/usr/bin/env python3 shebang is set. In linux with chmod +x vmware_ops.py command you can run without addind python3 in the beginning of your command line.
 
